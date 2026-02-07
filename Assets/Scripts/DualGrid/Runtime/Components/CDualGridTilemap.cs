@@ -9,7 +9,7 @@ namespace DualGrid.Runtime.Components
 /*
  * Converts a Tilemap to a Dual Grid Tilemap.
  * This component only guarantees the continuous update of the render tilemap.
- * Data tilemap changes are will be handled separately in an editor script.
+ * Data tilemap changes will be handled separately in an editor script.
  */
     public class CDualGridTilemap : MonoBehaviour
     {
